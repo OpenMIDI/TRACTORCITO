@@ -5,3 +5,4 @@ Este controlador MIDI fue fabricado por Yaeltex como primer prototipo para el TC
 Es un controlador compacto y simple que reune los controles generales de TRAKTOR. Utiliza el Kilomux shield para la conexión de los componentes a la Arduino y tiene desarrollado un MIDI Mapping especial para el software.
 
 FOTO: https://cloud.githubusercontent.com/assets/10437464/13373541/22dd784c-dd49-11e5-97d8-0e2f87d129ca.jpg
+![Alt text](https://cloud.githubusercontent.com/assets/10437464/13373541/22dd784c-dd49-11e5-97d8-0e2f87d129ca.jpg "TRACTORCITO")
